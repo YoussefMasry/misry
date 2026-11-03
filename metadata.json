@@ -1,0 +1,6 @@
+{
+  "name": "Misry Trading Platform",
+  "description": "منصة تداول الأسهم والعملات الرقمية الأسرع والأكثر أماناً في مصر والمنطقة العربية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
